@@ -1,0 +1,6 @@
+[app_name]
+	de = Meine Erste App
+	en = My first app
+[error_message]
+	de = Das ist eine Fehlermeldung!
+	en = This is an error message
